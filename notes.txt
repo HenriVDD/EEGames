@@ -1,0 +1,7 @@
+
+
+CP3, C3, FC3
+CP4, C4, FC4
+C1, C2
+FP1, FP2
+O1, O2

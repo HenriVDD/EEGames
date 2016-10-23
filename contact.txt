@@ -1,0 +1,8 @@
+Guillaume Dumas
+deep@introspection.eu
+web: extrospection.eu
+twitter: @introspection
+
+http://www.gocognitive.net/interviews/niels-birbaumer-brain-computer-interfaces
+
+https://github.com/mne-tools/mne-python/blob/master/mne/io/edf/edf.py
